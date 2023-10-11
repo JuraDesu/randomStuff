@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/calc.x.dir/algorithms.cpp.o -o calc.x 

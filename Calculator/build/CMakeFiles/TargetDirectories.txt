@@ -1,0 +1,3 @@
+/home/jura_desu/Desktop/Coding/C-Cpp/build/CMakeFiles/calc.x.dir
+/home/jura_desu/Desktop/Coding/C-Cpp/build/CMakeFiles/edit_cache.dir
+/home/jura_desu/Desktop/Coding/C-Cpp/build/CMakeFiles/rebuild_cache.dir
